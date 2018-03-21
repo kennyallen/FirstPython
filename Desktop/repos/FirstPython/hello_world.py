@@ -1,0 +1,5 @@
+print("Hello World!") 
+print("Bye Bye World!") 
+print("Time to leave the coworking space!") 
+print("I'm a great coder!") 
+print("Julia is so cute!") 
